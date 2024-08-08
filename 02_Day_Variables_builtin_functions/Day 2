@@ -1,0 +1,12 @@
+# Day 2: 30 days of python programming
+first_name= "David"
+last_mame= "Onyema"
+country="Nigeria"
+city="Lagos"
+age= 18
+year= "2024"
+is_married= "No"
+is_true= "Perchance"
+is_light_on= "perchance"
+Portfolio= [first_name, last_name, country, city, age, year, is married ]
+print (portfolio)
